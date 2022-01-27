@@ -8,7 +8,7 @@ This netflix clone is a web development project with frontend built in React & R
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://forum-prod-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-michael30.herokuapp.com/) here!!
 
 Check out [API LIVE DEMO](https://backend-michael30.herokuapp.com/) here!!
 ![image](https://user-images.githubusercontent.com/74165596/151445570-5034fa7c-3787-4e7e-bc83-34be90537f3c.png)
