@@ -11,7 +11,7 @@ This netflix clone is a web development project with frontend built in React & R
 Check out [FRONTEND LIVE DEMO](https://forum-prod-frontend.herokuapp.com/) here!!
 
 Check out [API LIVE DEMO](https://backend-michael30.herokuapp.com/) here!!
-[image](https://user-images.githubusercontent.com/74165596/151444684-65989b9e-1afc-4cb4-868a-8149a577f07d.png)
+(https://user-images.githubusercontent.com/74165596/151444684-65989b9e-1afc-4cb4-868a-8149a577f07d.png)
 ## Tech used
 
 ```
