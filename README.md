@@ -1,7 +1,7 @@
-# Forum App in React & Redux + Django
+# Netflix Clone
 
 ```
-Forum App, with a frontend built in React & Redux and a backend built in Django API.
+This netflix clone is a web development project with frontend built in React & Redux and a backend built in Django API. The website is designed to allow a movie theater company to demonstrate newly released and coming soon movies.
 ```
 
 ## Live Demo
@@ -10,13 +10,14 @@ Forum App, with a frontend built in React & Redux and a backend built in Django 
 
 Check out [FRONTEND LIVE DEMO](https://forum-prod-frontend.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://forum-prod-api.herokuapp.com/) here!!
-
+Check out [API LIVE DEMO](https://backend-michael30.herokuapp.com/) here!!
+[image](https://user-images.githubusercontent.com/74165596/151444684-65989b9e-1afc-4cb4-868a-8149a577f07d.png)
 ## Tech used
 
 ```
 * Frontend : React & Redux
-* Backend : Django
+* Backend : Django!
+
 ```
 
 ## How to Install
@@ -24,7 +25,6 @@ Check out [API LIVE DEMO](https://forum-prod-api.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
 ```
 
 2. Backend setting
